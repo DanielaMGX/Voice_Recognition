@@ -1,0 +1,9 @@
+right/hablante1_nohash_0.wav
+right/hablante1_nohash_1.wav
+right/hablante2_nohash_0.wav
+right/hablante2_nohash_1.wav
+right/hablante3_nohash_0.wav
+zero/hablante2_nohash_0.wav
+zero/hablante2_nohash_1.wav
+zero/hablante3_nohash_0.wav
+zero/hablante4_nohash_0.wav
